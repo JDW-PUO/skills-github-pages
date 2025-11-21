@@ -2,3 +2,6 @@
 title: Welcome to my blog
 ---
 
+This is the content I want on my homepage.
+
+<strong>Here is bold text</strong>
